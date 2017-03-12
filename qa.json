@@ -9,7 +9,7 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "trainkey"
+    "ParameterValue": "Trainkey"
    },
   {
      "ParameterKey": "SubnetId",
